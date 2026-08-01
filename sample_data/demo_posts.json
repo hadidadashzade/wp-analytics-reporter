@@ -1,0 +1,474 @@
+{
+  "site_url": "https://wordpress.org/news",
+  "posts": [
+    {
+      "id": 20747,
+      "date": "2026-05-27T17:40:10",
+      "title": {
+        "rendered": "WP23"
+      },
+      "author": 1,
+      "categories": [
+        2,
+        3,
+        4
+      ],
+      "tags": [],
+      "link": "https://wordpress.org/news/2026/05/wp23/",
+      "sticky": false,
+      "comment_status": "closed"
+    },
+    {
+      "id": 20721,
+      "date": "2026-05-26T12:52:13",
+      "title": {
+        "rendered": "Looking Ahead to WordCamp Europe 2026"
+      },
+      "author": 4,
+      "categories": [
+        4
+      ],
+      "tags": [
+        0,
+        1,
+        2
+      ],
+      "link": "https://wordpress.org/news/2026/05/wceu-2026-sessions/",
+      "sticky": false,
+      "comment_status": "closed"
+    },
+    {
+      "id": 20583,
+      "date": "2026-05-20T18:41:06",
+      "title": {
+        "rendered": "WordPress 7.0 “Armstrong”"
+      },
+      "author": 1,
+      "categories": [
+        1
+      ],
+      "tags": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "link": "https://wordpress.org/news/2026/05/armstrong/",
+      "sticky": true,
+      "comment_status": "open"
+    },
+    {
+      "id": 19999,
+      "date": "2026-05-19T00:00:00",
+      "title": {
+        "rendered": "WordPress 6.9.2 Maintenance Release"
+      },
+      "author": 1,
+      "categories": [
+        1,
+        3
+      ],
+      "tags": [
+        0
+      ],
+      "link": "https://wordpress.org/news/2026/05/wordpress-6.9.2-maintenance-re/",
+      "sticky": false,
+      "comment_status": "closed"
+    },
+    {
+      "id": 19998,
+      "date": "2026-05-12T00:00:00",
+      "title": {
+        "rendered": "An Update on the WordPress Foundation"
+      },
+      "author": 2,
+      "categories": [
+        2
+      ],
+      "tags": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "link": "https://wordpress.org/news/2026/05/an-update-on-the-wordpress-fou/",
+      "sticky": false,
+      "comment_status": "open"
+    },
+    {
+      "id": 19997,
+      "date": "2026-05-09T00:00:00",
+      "title": {
+        "rendered": "People of WordPress: Community Spotlight"
+      },
+      "author": 3,
+      "categories": [
+        2
+      ],
+      "tags": [],
+      "link": "https://wordpress.org/news/2026/05/people-of-wordpress-community-/",
+      "sticky": false,
+      "comment_status": "open"
+    },
+    {
+      "id": 19996,
+      "date": "2026-05-03T00:00:00",
+      "title": {
+        "rendered": "Security Advisory: Plugin Vulnerability Patched"
+      },
+      "author": 4,
+      "categories": [
+        3
+      ],
+      "tags": [
+        0,
+        1
+      ],
+      "link": "https://wordpress.org/news/2026/05/security-advisory-plugin-vulne/",
+      "sticky": false,
+      "comment_status": "closed"
+    },
+    {
+      "id": 19995,
+      "date": "2026-04-27T00:00:00",
+      "title": {
+        "rendered": "Accessibility Improvements Coming in the Next Release"
+      },
+      "author": 3,
+      "categories": [
+        1,
+        7
+      ],
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "link": "https://wordpress.org/news/2026/04/accessibility-improvements-com/",
+      "sticky": false,
+      "comment_status": "open"
+    },
+    {
+      "id": 19994,
+      "date": "2026-04-20T00:00:00",
+      "title": {
+        "rendered": "WordCamp Asia 2026: Call for Speakers"
+      },
+      "author": 4,
+      "categories": [
+        4
+      ],
+      "tags": [],
+      "link": "https://wordpress.org/news/2026/04/wordcamp-asia-2026-call-for-sp/",
+      "sticky": false,
+      "comment_status": "open"
+    },
+    {
+      "id": 19993,
+      "date": "2026-04-15T00:00:00",
+      "title": {
+        "rendered": "The Month in WordPress: April 2026"
+      },
+      "author": 2,
+      "categories": [
+        2
+      ],
+      "tags": [
+        0,
+        1,
+        2
+      ],
+      "link": "https://wordpress.org/news/2026/04/the-month-in-wordpress-april-2/",
+      "sticky": false,
+      "comment_status": "closed"
+    },
+    {
+      "id": 19992,
+      "date": "2026-04-06T00:00:00",
+      "title": {
+        "rendered": "New Plugin Directory Guidelines"
+      },
+      "author": 4,
+      "categories": [
+        5
+      ],
+      "tags": [],
+      "link": "https://wordpress.org/news/2026/04/new-plugin-directory-guideline/",
+      "sticky": false,
+      "comment_status": "open"
+    },
+    {
+      "id": 19991,
+      "date": "2026-04-02T00:00:00",
+      "title": {
+        "rendered": "Five Years of Full Site Editing"
+      },
+      "author": 1,
+      "categories": [
+        2,
+        6
+      ],
+      "tags": [],
+      "link": "https://wordpress.org/news/2026/04/five-years-of-full-site-editin/",
+      "sticky": false,
+      "comment_status": "open"
+    },
+    {
+      "id": 19990,
+      "date": "2026-03-25T00:00:00",
+      "title": {
+        "rendered": "WordPress 6.9 Beta 1"
+      },
+      "author": 1,
+      "categories": [
+        1
+      ],
+      "tags": [],
+      "link": "https://wordpress.org/news/2026/03/wordpress-6.9-beta-1/",
+      "sticky": false,
+      "comment_status": "open"
+    },
+    {
+      "id": 19989,
+      "date": "2026-03-22T00:00:00",
+      "title": {
+        "rendered": "Theme Review Team: 2026 Priorities"
+      },
+      "author": 3,
+      "categories": [
+        6
+      ],
+      "tags": [
+        0
+      ],
+      "link": "https://wordpress.org/news/2026/03/theme-review-team-2026-priorit/",
+      "sticky": false,
+      "comment_status": "open"
+    },
+    {
+      "id": 19988,
+      "date": "2026-03-16T00:00:00",
+      "title": {
+        "rendered": "Data Liberation: Import/Export Improvements"
+      },
+      "author": 2,
+      "categories": [
+        1
+      ],
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "link": "https://wordpress.org/news/2026/03/data-liberation-import/export-/",
+      "sticky": false,
+      "comment_status": "open"
+    },
+    {
+      "id": 19987,
+      "date": "2026-03-07T00:00:00",
+      "title": {
+        "rendered": "The Month in WordPress: March 2026"
+      },
+      "author": 2,
+      "categories": [
+        2
+      ],
+      "tags": [],
+      "link": "https://wordpress.org/news/2026/03/the-month-in-wordpress-march-2/",
+      "sticky": false,
+      "comment_status": "closed"
+    },
+    {
+      "id": 19986,
+      "date": "2026-03-03T00:00:00",
+      "title": {
+        "rendered": "WordCamp US 2026 Location Announced"
+      },
+      "author": 4,
+      "categories": [
+        4
+      ],
+      "tags": [],
+      "link": "https://wordpress.org/news/2026/03/wordcamp-us-2026-location-anno/",
+      "sticky": false,
+      "comment_status": "open"
+    },
+    {
+      "id": 19985,
+      "date": "2026-02-25T00:00:00",
+      "title": {
+        "rendered": "Core Contributor Meetup Recap"
+      },
+      "author": 3,
+      "categories": [
+        2
+      ],
+      "tags": [
+        0,
+        1
+      ],
+      "link": "https://wordpress.org/news/2026/02/core-contributor-meetup-recap/",
+      "sticky": false,
+      "comment_status": "open"
+    },
+    {
+      "id": 19984,
+      "date": "2026-02-17T00:00:00",
+      "title": {
+        "rendered": "WordPress 6.9 Field Guide"
+      },
+      "author": 1,
+      "categories": [
+        1
+      ],
+      "tags": [
+        0
+      ],
+      "link": "https://wordpress.org/news/2026/02/wordpress-6.9-field-guide/",
+      "sticky": false,
+      "comment_status": "closed"
+    },
+    {
+      "id": 19983,
+      "date": "2026-02-14T00:00:00",
+      "title": {
+        "rendered": "Plugin Security Best Practices"
+      },
+      "author": 4,
+      "categories": [
+        3,
+        5
+      ],
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "link": "https://wordpress.org/news/2026/02/plugin-security-best-practices/",
+      "sticky": false,
+      "comment_status": "open"
+    },
+    {
+      "id": 19982,
+      "date": "2026-02-06T00:00:00",
+      "title": {
+        "rendered": "Community Summit 2026: Save the Date"
+      },
+      "author": 4,
+      "categories": [
+        2,
+        4
+      ],
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "link": "https://wordpress.org/news/2026/02/community-summit-2026-save-the/",
+      "sticky": false,
+      "comment_status": "open"
+    },
+    {
+      "id": 19981,
+      "date": "2026-02-01T00:00:00",
+      "title": {
+        "rendered": "The Month in WordPress: February 2026"
+      },
+      "author": 2,
+      "categories": [
+        2
+      ],
+      "tags": [],
+      "link": "https://wordpress.org/news/2026/02/the-month-in-wordpress-februar/",
+      "sticky": false,
+      "comment_status": "closed"
+    },
+    {
+      "id": 19980,
+      "date": "2026-01-26T00:00:00",
+      "title": {
+        "rendered": "Introducing the New Font Library"
+      },
+      "author": 1,
+      "categories": [
+        1,
+        6
+      ],
+      "tags": [
+        0,
+        1
+      ],
+      "link": "https://wordpress.org/news/2026/01/introducing-the-new-font-libra/",
+      "sticky": false,
+      "comment_status": "open"
+    },
+    {
+      "id": 19979,
+      "date": "2026-01-21T00:00:00",
+      "title": {
+        "rendered": "Accessibility Team: Call for Volunteers"
+      },
+      "author": 3,
+      "categories": [
+        7
+      ],
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "link": "https://wordpress.org/news/2026/01/accessibility-team-call-for-vo/",
+      "sticky": false,
+      "comment_status": "open"
+    }
+  ],
+  "categories": {
+    "1": "Releases",
+    "2": "Community",
+    "3": "Security",
+    "4": "Events",
+    "5": "Plugins",
+    "6": "Themes",
+    "7": "Accessibility"
+  },
+  "authors": {
+    "1": "Matt Mullenweg",
+    "2": "Josepha Haden",
+    "3": "Sarah Gooding",
+    "4": "Automattic News Team"
+  },
+  "comment_counts": {
+    "20747": 0,
+    "20721": 0,
+    "20583": 214,
+    "19999": 12,
+    "19998": 87,
+    "19997": 9,
+    "19996": 0,
+    "19995": 21,
+    "19994": 14,
+    "19993": 0,
+    "19992": 33,
+    "19991": 45,
+    "19990": 58,
+    "19989": 6,
+    "19988": 19,
+    "19987": 0,
+    "19986": 27,
+    "19985": 4,
+    "19984": 0,
+    "19983": 16,
+    "19982": 22,
+    "19981": 0,
+    "19980": 38,
+    "19979": 11
+  }
+}
